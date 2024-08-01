@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  **Aditya Shukla** and I'm a FullStack Devloper/Data Scientist, from Lucknow</p>
+<p align="left">My name is  <b>Aditya Shukla</b> and I'm a FullStack Devloper/Data Scientist, from Lucknow</p>
 
 ###
 
@@ -94,15 +94,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
