@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating AI Models And Website with Great Design. ...<br>📚 I'm currently learning Generative Adverial Neural Networks and Practising DSA
+<p align="left">✨ Creating AI Models And Website with Great Design.<br>📚 I'm currently learning Generative Adverial Neural Networks and Practising DSA.
 
 ###
 
