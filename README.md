@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Generative Adverial Neural Networks and Practising DSA<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating AI Models And Website with Great Design. ...<br>📚 I'm currently learning Generative Adverial Neural Networks and Practising DSA
 
 ###
 
@@ -94,6 +94,7 @@
 
 ###
 
+<h2 align="left">Social Media Profile</h2>
 
 ###
 
