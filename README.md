@@ -3,6 +3,9 @@
 ###
 
 <p align="left">My name is  <b>Aditya Shukla</b> and I'm a FullStack Devloper/Data Scientist, from Lucknow</p>
+<p align="left">This is My WebDev Portfolio  <a target="_blank" href="https://shadowadi.github.io/WebDev_Portfolio/">WebDev</a> </p>
+<p align="left">This is My DataScience Portfolio  <a target="_blank" href="https://shadowadi.github.io/Aditya_Portfolio/">DataScience</a> </p>
+
 
 ###
 
