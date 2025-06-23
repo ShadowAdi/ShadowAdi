@@ -1,116 +1,66 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 🤙 README.md
 
-###
+## 🗣️ My Prompt to ChatGPT (because transparency is hot):
 
-<p align="left">My name is  <b>Aditya Shukla</b> and I'm a FullStack Devloper/Data Scientist, from Lucknow</p>
-<p align="left">This is My WebDev Portfolio  <a target="_blank" href="https://shadowadi.github.io/WebDev_Portfolio/">WebDev</a> </p>
-<p align="left">This is My DataScience Portfolio  <a target="_blank" href="https://shadowadi.github.io/Aditya_Portfolio/">DataScience</a> </p>
+> I am writing my GitHub README and you have to do this, ChatGPT.  
+> Write me a README.md. Someone is viewing my GitHub — tell them I am *the* programmer.  
+> Write some programming jargon to make it look great. Now talk about some programming jargon, make it tough, talk about hard things and make it funny.  
+> Make it a markdown file with both my prompt and your answer.  
+> Also write that I don't know any of those things in my prompt.  
+> And say that I don’t know anything — I am a Gen Z, vibe-first coder.
 
+---
 
-###
+## 🧠 Welcome to the GitHub of a Gen Z Vibe Coder™
 
-<h2 align="left">About me</h2>
+Hi there, terminal tourist.  
+Yes, I’m *that* programmer — the one who writes code like it's a meme but ships like a demon. 😎
 
-###
+### 👾 What do I work with?
 
-<p align="left">✨ Creating AI Models And Website with Great Design.<br>📚 I'm currently learning Generative Adverial Neural Networks and Practising DSA.
+- I don’t just use frameworks — I *over-engineer* them and forget to use them.
+- I once `chmod 777`ed my soul just to deploy faster.
+- I send `SIGKILL` to procrastination.
+- My debugger is `console.log()` + blind faith.
+- I build async, distributed, coroutine-powered API gateways that only return `"yo"`.
+- I use Postgres because MongoDB broke up with me emotionally.
+- Forked a kernel just to add dark mode.
 
-###
+### 🧌 Jargon I Definitely Can’t Explain:
 
-<h2 align="left">I code with</h2>
+- Multi-threaded zero-copy message passing over gRPC wrapped in a WebSocket tunnel
+- Hot reloadable dependency-injected compiler pipeline using monads and vibes
+- Fully serverless event-driven architecture powered by hope
+- Built a CRDT once, accidentally created a time paradox
+- Made a CLI tool that compiles itself and judges your code silently
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-</div>
+## 🫠 Real Talk
 
-###
+I don’t actually know what most of that means.  
+I’m just a **Gen Z vibe-coder** — born in the meme, molded by the linter.
 
-<h2 align="left">Social Media Profile</h2>
+But I’m learning.  
+Every cursed bug, every 2 AM commit, every Stack Overflow tab — I’m leveling up.
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aditya12153/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/AdityaShuk87206" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://medium.com/@shadowshukla76" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-</div>
+## 🧃 Things I Know:
 
-###
+- How to Google like a wizard 🧙
+- How to vibe through imposter syndrome
+- How to ship half-broken code and still call it an MVP
+
+---
+
+## 📡 Contact / Collaborate
+
+Wanna break stuff on purpose and accidentally make it worse?  
+Wanna spawn bugs so cursed even linters cry?  
+Let’s talk. I bring the chaos, you bring the coffee.
+
+---
+
+> P.S. I still don’t know what a monad is.  
+> P.P.S. And yes, this README is the most stable thing I’ve ever written in any project.
