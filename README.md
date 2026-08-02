@@ -2,4 +2,4 @@
 
 [Portfolio](https://shadowadi.github.io/WebDev_Portfolio/)
 
-[Resume](https://drive.google.com/file/d/1T3XFmT7npUCmqvmbpVgS3FB6iKAvQJT0/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/11qzbx30hfvX4jaDWnH5cVdv8Gw0lk4KZ/view?usp=sharing)
