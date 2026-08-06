@@ -7,8 +7,9 @@ I'm a full-stack engineer passionate about building scalable web applications, b
 ## 💼 Experience
 
 - **Founding Engineer** @ DollarLabs
-- **Full-Stack Developer Intern** @ NavaJuni
-- **Full-Stack Developer Intern** @ Cardtr.ee
+- **SDE** @ Techbrens
+- **Founding Engineer Intern** @ NavaJuni
+- **Founding Engineer** @ Cardtr.ee
 - **Web Development Intern** @ TheSquirrel
 - **Frontend Developer Intern** @ Gamersback
 
