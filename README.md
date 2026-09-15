@@ -64,8 +64,8 @@ I'm a full-stack engineer passionate about building scalable web applications, b
 **https://drive.google.com/file/d/11qzbx30hfvX4jaDWnH5cVdv8Gw0lk4KZ/view**
 
 💼 **LinkedIn**  
-**https://linkedin.com/in/YOUR_USERNAME**
-
+[**https://linkedin.com/in/Me**
+](https://www.linkedin.com/in/aditya12153/)
 📧 **Email**  
 shadowshukla76@gmail.com
 
