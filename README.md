@@ -61,7 +61,7 @@ I'm a full-stack engineer passionate about building scalable web applications, b
 **https://shadowadi.github.io/WebDev_Portfolio/**
 
 📄 **Resume**  
-**https://drive.google.com/file/d/11qzbx30hfvX4jaDWnH5cVdv8Gw0lk4KZ/view**
+**https://drive.google.com/file/d/1uPZ_nJAnVA0_pupNYCr6-VZniDKUEWQa/view?usp=sharing**
 
 💼 **LinkedIn**  
 [**https://linkedin.com/in/Me**
